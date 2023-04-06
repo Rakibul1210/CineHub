@@ -1,0 +1,35 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Rakibul",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "auth-service": "^1.0.0",
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "docx-extractor": "^1.1.5",
+    "docxtemplater": "^3.36.1",
+    "express": "^4.18.2",
+    "handlebars": "^4.7.7",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^9.0.0",
+    "mammoth": "^1.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.2.0",
+    "nodemon": "^2.0.22",
+    "npm": "^9.6.3",
+    "office-converter": "^1.0.2",
+    "officeparser": "^3.1.4",
+    "otp-generator": "^4.0.1",
+    "react-bootstrap": "^2.7.2",
+    "socket.io": "^4.6.1"
+  }
+}
