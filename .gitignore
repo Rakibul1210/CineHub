@@ -4,6 +4,7 @@
 node_modules/*
 public/*
 server/node_modules/*
+public/*
 /node_modules
 /.pnp
 .pnp.js
